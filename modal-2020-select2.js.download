@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".modal-select2").select2({dropdownPosition:'below'});});$('.modal-trigger-btn-open').click(function(){});$('.modal-trigger-btn-close').click(function(){});
